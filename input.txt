@@ -1,0 +1,11 @@
+You are expected to develop a text analyzer tool. The program allows you to find the most
+frequent phrases and frequencies of words. Non-English language texts are supported. It
+also counts number of words, characters, sentences and syllables. Also calculates lexical
+density
+All work on assignments must be done with your own unless stated otherwise. You are encouraged to
+discuss with your classmates about the given assignments, but these discussions should be carried out
+in an abstract way. That is, discussions related to a particular solution to a specific problem (either in
+actual code or in the pseudocode) will not be tolerated. In short, turning in someone elses work(from
+internet), in whole or in part, as your own will be considered as a violation of academic integrity. Please
+note that the former condition also holds for the material found on the web as everything on the web
+has been written by someone else.as your as your as your everything on the everything on the
